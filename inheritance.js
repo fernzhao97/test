@@ -1,5 +1,8 @@
 //这里的ELF是精灵，当我们需要另一个职业的时候，我们可以复制粘贴class
 //但同样存在着简单的方法
+//git update test line
+//2021
+
 class ElfC{
     constructor(name,weapon){
         this.name=name;
