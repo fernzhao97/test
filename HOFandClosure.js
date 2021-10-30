@@ -3,6 +3,11 @@
 //Simply means it's a function that does one of two things
 // It either takes or more function as arguments
 //Or returns a function as a result, often called a callback
+<<<<<<< HEAD
+//add to new branch not master
+//and check master later
+=======
+>>>>>>> master
 const hof =()=>()=> {return 5;}
 //function returns function
 const hof1 =(fn)=>fn(5);
