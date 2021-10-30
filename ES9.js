@@ -13,3 +13,10 @@ function sum(a,b,c,d,e){
 }
 
 console.log("add to new ")
+
+
+const animal = {
+    cat:23,
+    lion:33,
+    monkey:2
+}
