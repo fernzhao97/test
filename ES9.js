@@ -20,3 +20,9 @@ const animal = {
     lion:33,
     monkey:2
 }
+
+const fern = {
+    a:23,
+    b:33,
+    c:2
+}
